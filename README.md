@@ -33,23 +33,27 @@ KT 프로젝트: HWP 문서(hwp, hwpx, hwpml 등)를 파싱하여 KT 메타 요�
 > - `.hwp` 파일은 바이너리 또는 HWPML(XML)일 수 있습니다.
 > - HWPML, HWPX는 파싱 및 데이터 추출이 용이합니다.
 
+## What is "HWP Parser"?
+
+이 레포지토리는 다양한 한글 문서 포맷(hwp, hwpml, hwpx 등)을 파싱하여, 필요한 데이터 추출 및 변환을 수행하는 도구 개발을 목표로 합니다.
+
 ## Developer note
 
-### plans
+### 250718
 
 HWPX를 XML 또는 HTML로 변환 가능하다는 전제 하에,
 HWP > HWPX > XML > KT meta 구현 할 예정임
 
-#### Tests
+    #### Tests
 
-1. HWPX > XML
-2. HWP > HWPX
-3. HWPML > HTML
+    1. HWPX > XML
+    2. HWP > HWPX
+    3. HWPML > HTML
 
-#### develop
+    #### develop
 
-1. HTML > KT meta
-2. XML > KT meta
+    1. HTML > KT meta
+    2. XML > KT meta
 
 ---
 
