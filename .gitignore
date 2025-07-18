@@ -15,3 +15,4 @@ Thumbs.db
 
 # 테스트/임시 파일
 *.tmp
+test/
