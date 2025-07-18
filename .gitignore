@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 환경설정/로그
+.env
+*.log
+
+# 테스트/임시 파일
+*.tmp
