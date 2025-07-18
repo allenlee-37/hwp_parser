@@ -56,3 +56,4 @@ HWP > HWPX > XML > KT meta 구현 할 예정임
 ### 기타 참고
 
 - 문의: allenlee-37@github.com
+- 이메일: hxlee42@gmail.com
